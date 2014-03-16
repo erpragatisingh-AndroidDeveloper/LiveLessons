@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bad Intent</string>
+    <string name="username">Enter your username</string>
+    <string name="password">Enter your password</string>
+    <string name="login">Done</string>    
+</resources>
